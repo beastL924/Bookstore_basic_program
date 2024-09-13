@@ -5,7 +5,7 @@ public class Bookstore {
 
     // Database connection parameters
     private static final String DB_URL = "jdbc:postgresql://localhost:5432/Bookstore";
-    private static final String USER = "postgre";
+    private static final String USER = "postgres";
     private static final String PASSWORD = "";
 
     public static void main(String[] args) {
